@@ -1,5 +1,6 @@
 header{
     background: #BBBBBB;
+    padding: 20px 0;
 }
 
 .caixa{
@@ -25,6 +26,13 @@ nav a{
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+    
+}
+
+.produtos{
+    width: 940;
+    margin: 0 auto;
+    padding: 50px 0;
 }
 
 .produtos li{
@@ -32,6 +40,11 @@ nav a{
     text-align: center;
     width: 30%;
     vertical-align: top;
+    margin: 0 1.5%;
+    paddind: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
 
 .produtos h2{
@@ -46,4 +59,5 @@ nav a{
 .produto-preco{
     font-size: 22px;
     font-weight: bold;
+    margin-top: 10px;
 }
