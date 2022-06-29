@@ -268,4 +268,18 @@ td, th{
         width: 100%;
         margin:auto;
     }
+
+    .input-padrao, table{
+        width: 100%;
+    }
+
+    fieldset select{
+        width: 50%;
+    }
+
+    .enviar{
+        display:block;
+        width: 90%;
+        margin: auto;
+    }
 }
