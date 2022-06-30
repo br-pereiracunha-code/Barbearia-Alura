@@ -267,6 +267,7 @@ td, th{
         display: inline-block;
         width: 100%;
         margin:auto;
+        margin-top: 2em;
     }
 
     .input-padrao, table{
